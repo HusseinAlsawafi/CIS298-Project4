@@ -1,7 +1,6 @@
 # Hussein Alsawafi & Mira
 # CIS 298 - Week 9 Assignment
 # Registration Database - managing all tables + student transcript
-# based on starter code from https://www.py4e.com/html3/15-database
 
 import sqlite3
 
